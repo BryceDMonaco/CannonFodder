@@ -12,8 +12,10 @@ Cannon Fodder 3D was a third person, multiplayer tank shooter developed in Unity
 All trailers and other videos can be found on the team's [YouTube channel](https://www.youtube.com/@dimensioncubed1776/videos) and the development blog can be found [here](http://cannonfodder.weebly.com/).
 
 ## Team:
-Bryce Monaco - Lead Game Designer, Programmer, 3D Artist
-Alex Kastanek - Soundtrack, Sound Designer, Game Designer
+Bryce Monaco - Lead Game Designer, Programmer, 3D Artist, Level Designer
+
+Alex Kastanek - Soundtrack, Sound Designer, Game Designer, Level Designer
+
 Nick Kolettis - Game Designer, 3D Artist
 
 ## NOTICE:
