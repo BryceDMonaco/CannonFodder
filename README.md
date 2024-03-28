@@ -17,5 +17,5 @@ Alex Kastanek - Soundtrack, Sound Designer, Game Designer
 Nick Kolettis - Game Designer, 3D Artist
 
 ## NOTICE:
-This is a repository containing the source code for Cannon Fodder 3D as it was January 2014. This source code is **not** the final release code, which was unfortunately lost, but instead an old backup.
+This is a repository containing the source code for Cannon Fodder 3D as it was June 5, 2014. This source code is **not** the final release code, which was unfortunately lost, but instead an old backup. Note: An older backup from January 2014 is also available as the original repo commit.
 
